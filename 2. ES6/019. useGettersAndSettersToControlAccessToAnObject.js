@@ -11,3 +11,4 @@ class Thermostat {
     this._fahrenheit = (celsius * 9.0) / 5 + 32;
   }
 }
+ 
